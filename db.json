@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "Woofing those bugs away",
-      "likes": 0,
-      "image": "https://images.dog.ceo/breeds/collie-border/n02106166_1674.jpg"
+      "likes": 5,
+      "image": "https://images.dog.ceo/breeds/keeshond/n02112350_8341.jpg"
     }
   ],
   "comments": [
@@ -37,6 +37,31 @@
       "imageId": 1,
       "content": "want one",
       "id": 6
+    },
+    {
+      "imageId": 1,
+      "content": "thanks",
+      "id": 7
+    },
+    {
+      "imageId": 1,
+      "content": "beautiful",
+      "id": 8
+    },
+    {
+      "imageId": 1,
+      "content": "gaddamn!",
+      "id": 9
+    },
+    {
+      "imageId": 1,
+      "content": "fluffy",
+      "id": 10
+    },
+    {
+      "imageId": 1,
+      "content": "k9",
+      "id": 11
     }
   ]
 }
